@@ -1,5 +1,10 @@
 git init
 git add 
+git add .
 git status
 git commit -m " "
-git rm --cashe "fil name"
+git rm --cashe "file name"
+git log
+git clone 
+git remote -v
+git push origin master
